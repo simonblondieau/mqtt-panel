@@ -1,12 +1,12 @@
 {
   "type": "panel",
   "name": "MQTT panel",
-  "id": "geeksrus-mqtt-panel",
+  "id": "simonblondieau-mqtt-panel",
   "info": {
     "description": "A panel to enable grafana to fulfil simple control tasks via MQTT",
     "author": {
-      "name": "geeks-r-us",
-      "url": "https://github.com/geeks-r-us/mqtt-panel"
+      "name": "simonblondieau",
+      "url": "https://github.com/simonblondieau/mqtt-panel"
     },
     "keywords": [
       "MQTT"
