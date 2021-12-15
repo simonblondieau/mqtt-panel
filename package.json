@@ -1,5 +1,5 @@
 {
-  "name": "geeksrus-mqtt-panel",
+  "name": "simonblondieau-mqtt-panel",
   "version": "1.0.7",
   "description": "A panel to enable grafana to fulfil simple control tasks via MQTT",
   "scripts": {
@@ -8,7 +8,7 @@
     "dev": "grafana-toolkit plugin:dev",
     "watch": "grafana-toolkit plugin:dev --watch"
   },
-  "author": "geeks-r-us",
+  "author": "simonblondieau",
   "license": "Apache-2.0",
   "devDependencies": {
     "@grafana/data": "7.2.0",
